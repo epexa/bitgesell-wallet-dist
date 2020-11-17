@@ -1,7 +1,9 @@
 # Bitgesell Wallet JS Frontend Core Dist
 
+You can run directly from here: https://epexa.github.io/bitgesell-wallet-js-frontend-core-dist/
+
 If you have launched the web version, then most likely your browser will block requests to the API. You will see an error:
-`Access to XMLHttpRequest at 'https://bitgesellexplorer.com/' from origin 'https://epexa.github.io/bitgesell-wallet-js-frontend-core-dist' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.`
+`Access to fetch at 'https://bitgesellexplorer.com/...' from origin 'https://epexa.github.io' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.`
 
 It is called CORS. You can check it out here: https://webbrowsertools.com/test-cors
 
