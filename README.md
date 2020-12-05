@@ -1,4 +1,4 @@
-# Bitgesell Wallet JS Frontend Core Dist
+# Bitgesell Wallet JS Dist
 
 ## You can run directly from here: https://app.bglwallet.io
 
